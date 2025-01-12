@@ -7,6 +7,6 @@ Youwei He, Jeong-Dong Lee, Seungmin Lee
 # Citation  
 He, Y., Lee, J. D., & Lee, S. (2024). Innovation beyond intention: harnessing exaptation for technological breakthroughs. arXiv preprint arXiv:2412.19662.
 # Download
-<a href='https://doi.org/10.48550/arXiv.2412.19662'> V1 </a>  
+<a href='https://doi.org/10.48550/arXiv.2412.19662'>V1</a>  
 V2
 ## Other content will be uploaded soon.
