@@ -12,8 +12,8 @@ He, Y., Lee, J. D., & Lee, S. (2024). Innovation beyond intention: harnessing ex
 <a href='https://patentsview.org/'>USPTO</a>   
 # Download
 <a href='https://doi.org/10.48550/arXiv.2412.19662'> V1 </a>  
- V2
-# Conference (ICSSI2024)  
+V2
+# Conference (2024 International Conference on the Science of Science and Innovation)  
 <a href='doc/abstract.pdf'>Abstract</a>  
 <a href='doc/HeYouwei_July2.pdf'>Presentation</a>  
 ## Other content (including codes) will be uploaded later.
